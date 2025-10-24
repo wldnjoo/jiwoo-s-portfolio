@@ -1,0 +1,48 @@
+@charset "utf-8";
+
+/*공통*/
+.mb100 {
+  margin-bottom: 100px;
+}
+.mb70 {
+  margin-bottom: 70px;
+}
+.mb20 {
+  margin-bottom: 20px;
+}
+#sub_wrap img {
+  display: block;
+  width: 100%;
+}
+/*퍼즐트립*/
+
+#sub_wrap .puzzle img:nth-child(3) {
+  margin: 250px 0;
+}
+
+/*덕경식육관*/
+#sub_wrap .deokgyeong img:nth-child(2) {
+  margin-bottom: 250px;
+}
+#sub_wrap .deokgyeong img:nth-child(4) {
+  margin: 40px 0 250px;
+}
+
+/*럭키칠곡*/
+
+
+/*에브리필*/
+#sub_wrap .everypill img:nth-child(8) {
+  margin-bottom: 200px;
+}
+#sub_wrap .everypill img:nth-child(13) {
+  margin-bottom: 160px;
+}
+
+/*머드축제*/
+#sub_wrap .mud img:nth-child(2) {
+  margin-bottom: 50px;
+}
+#sub_wrap .mud img:nth-child(4) {
+  margin-bottom: 150px;
+}
